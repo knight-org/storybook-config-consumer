@@ -1,0 +1,30 @@
+{
+  "name": "@beisen/storybook-config-consumer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knight-org/storybook-config-consumer.git"
+  },
+  "author": {
+    "name": "zhangyue",
+    "email": "zygeilit@icloud.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knight-org/storybook-config-consumer/issues"
+  },
+  "homepage": "https://github.com/knight-org/storybook-config-consumer#readme",
+  "dependencies": {
+    "@beisen/readrc": "0.0.2",
+    "ejs": "^2.6.1",
+    "execa": "^1.0.0"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0"
+  }
+}
